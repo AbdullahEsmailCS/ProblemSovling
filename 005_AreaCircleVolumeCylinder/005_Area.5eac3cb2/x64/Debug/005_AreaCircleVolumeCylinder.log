@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\BackEnd\005_C++ Problem Solving\Labs\005_AreaCircleVolumeCylinder\main.cpp(11,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  005_AreaCircleVolumeCylinder.vcxproj -> D:\BackEnd\005_C++ Problem Solving\Labs\005_AreaCircleVolumeCylinder\x64\Debug\005_AreaCircleVolumeCylinder.exe
